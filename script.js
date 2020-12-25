@@ -57,3 +57,5 @@ td2row5.addEventListener("click", function(event) {if (td2row5.bgColor == "red")
 td3row5.addEventListener("click", function(event) {if (td3row5.bgColor == "red") {td3row5.bgColor = "white"} else {td3row5.bgColor = "red"}});
 td4row5.addEventListener("click", function(event) {if (td4row5.bgColor == "red") {td4row5.bgColor = "white"} else {td4row5.bgColor = "red"}});
 td5row5.addEventListener("click", function(event) {if (td5row5.bgColor == "red") {td5row5.bgColor = "white"} else {td5row5.bgColor = "red"}});
+
+td3row3.innerHTML = "X";
